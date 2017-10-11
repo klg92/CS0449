@@ -7,4 +7,4 @@ RPS is a game of rock, paper, scissors
 
 myshell is a basic shell, similar to bash
 
-craps uses a given device driver kernel module (/dice/dev) to play the game of craps
+craps uses a given device driver kernel module (dice_dev) to play the game of craps
